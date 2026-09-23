@@ -19,7 +19,8 @@ int checkin(const char *name)
     return 0;
 }
 
-// Print a check in message for
+// Print a check in message for the specified user
+
 int main(void)
 {
     checkin("Developer A,B,C");
