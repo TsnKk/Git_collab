@@ -1,1 +1,4 @@
-ีThis project is developed by Team B.
+This project is developed by Team A. 
+This project is developed by Team B.
+# Fuga(Open)
+
