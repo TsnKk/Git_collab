@@ -19,6 +19,7 @@ int checkin(const char *name)
     return 0;
 }
 
+// Print a check in message for
 int main(void)
 {
     checkin("Developer A,B,C");
